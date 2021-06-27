@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle">
+    <CLASSES>
+      <root url="file:///usr/local/Cellar/gradle/4.8" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
